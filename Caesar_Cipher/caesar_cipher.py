@@ -1,5 +1,3 @@
-import sys
-
 ALPHABET = "abcdefghijklmnopqrstuvwxyz"
 
 def encode_text(text: str) -> str:
